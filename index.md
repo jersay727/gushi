@@ -14,6 +14,6 @@
         <br/>举头望明月
         <br/>低头思故乡</p>
     <img src="timg%20(3).jpg">
-    <a href="http://www.baidu.com" target="_blank">打开百度</a>
+    <a href="https://jersay727.github.io/gushi/" target="_blank">打开百度</a>
 </body>
 </html>
