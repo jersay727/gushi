@@ -5,7 +5,7 @@
     <title>古诗</title>
 </head>
 <body bgcolor="#dc143c">
-    <h1 align="center">静夜思</h1>
+    <h1 align="center"><b><em><i><strong>静夜思</strong></i></em></b></h1><sub>李白</sub>
     <p align="center">床前明月光</p>
     <p align="center">疑是地上霜</p>
     <p align="center">举头望明月</p>
