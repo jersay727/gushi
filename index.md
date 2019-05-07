@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>古诗</title>
+     <link rel="stylesheet" type="text/css" href="rel.css">
 </head>
 <body bgcolor="#dc143c">
     <h1 align="center"><b><em><i><strong>静夜思</strong></i></em></b></h1><sub>李白</sub>
