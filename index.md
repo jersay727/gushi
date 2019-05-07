@@ -20,6 +20,6 @@
         <br/>举头望明月
         <br/>低头思故乡</p>
     <img src="timg%20(3).jpg">
-    <a href="https://jersay727.github.io/gushi/" target="_parent" " style="color: red">打开百度</a>
+    <a href="https://www.baidu.com" target="_parent" " style="color: red">打开百度</a>
 </body>
 </html>
