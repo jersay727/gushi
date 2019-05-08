@@ -12,6 +12,7 @@
 </head>
 <body bgcolor="#dc143c">
 <h1 align="center"><b><em><i><strong>静夜思</strong></i></em></b></h1><sub>李白</sub>
+    <a name="tips"><h1 align="center">开始</h1></a>
 <p align="center">床前明月光</p>
 <p align="center">疑是地上霜</p>
 <p align="center">举头望明月</p>
@@ -24,5 +25,6 @@
     </a>
      <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <a href="https://jersay727.github.io/gushi/">打开百度</a>
+     <a href="#tips">返回开始</a>
 </body>
 </html>
