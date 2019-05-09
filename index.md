@@ -23,6 +23,27 @@
    <a href="https://jersay727.github.io/gushi/"  target="_blank">
         <img src="g.PNG" alt="nothing">
     </a>
+        <table align="center" bgcolor="green" cellpadding="20" border="25">
+        <caption>古诗</caption>
+        <tr style="background: gold">
+            <th><i>静夜思</i></th>
+        </tr>
+        <tr>
+            <td>床前明月光</td>
+            <td>疑是地上霜</td>
+            <td>举头望明月</td>
+            <td>低头思故乡</td>
+        </tr>
+        <tr>
+            <ul>
+                <li>床前明月光</li>
+                <li>疑是地上霜</li>
+                <li>举头望明月</li>
+                <li>低头思故乡</li>
+            </ul>
+        </tr>
+
+    </table>
      <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <a href="https://jersay727.github.io/gushi/">打开百度</a>
      <a href="#tips">返回开始</a>
