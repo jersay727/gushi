@@ -45,7 +45,11 @@
 
     </table>
      <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a href="https://jersay727.github.io/gushi/">打开百度</a>
-     <a href="#tips">返回开始</a>
+<dl>
+        <dt>结尾选项1</dt>
+        <dd><a href="https://jersay727.github.io/gushi/">打开百度</a></dd>
+        <dt>结尾选项2</dt>
+        <dd><a href="#tips">返回开始</a></dd>
+    </dl>
 </body>
 </html>
