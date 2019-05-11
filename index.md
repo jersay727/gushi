@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <<title>古诗</title>
+    <title>古诗</title>
     <link rel="stylesheet" type="text/css" href="rel.css">
     <style type="text/css">
         p{
