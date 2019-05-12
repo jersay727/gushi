@@ -66,8 +66,11 @@
         您的年龄是？
         <br/>
         小于20<input type="checkbox">
+         <br/>             
         20~30<input type="checkbox">
+          <br/>              
         30~40<input type="checkbox">
+          <br/>              
         大于40<input type="checkbox">
         <br/> <br/> <br/>
         您的性别？
