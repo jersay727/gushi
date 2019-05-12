@@ -10,6 +10,9 @@
         }
     </style>
     <style type="text/css">
+         body{
+            margin: 0px;
+        }
         #full{
             width: 100%;height: 1000px;
         }
