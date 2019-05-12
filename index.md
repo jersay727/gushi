@@ -14,7 +14,7 @@
             margin: 0px;
         }
         #full{
-            width: 100%;height: 1000px;
+            width: 500px;height: 1000px;
         }
         #heading{
             width: 100%;height: 12%;background: red;
