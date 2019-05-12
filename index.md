@@ -17,22 +17,22 @@
             width: 100%;height: 1000px;
         }
         #heading{
-            width: 100%;height: 12%;background: red;
+            width: 100%;height: 12%;
         }
         #menu_1{
-            width: 20%;height: 78%;background: blue;
+            width: 20%;height: 78%;
             float: left;
         }
         #comment1{
-            width: 80%;height: 39%;background: darkblue;
+            width: 80%;height: 39%;
             float: right;
         }
         #comment2{
-            width: 80%;height: 39%;background: darkblue;
+            width: 80%;height: 39%;
             float: right;
         }
         #bottom{
-            width: 100%;height: 15%;background: red;
+            width: 100%;height: 15%;
             float: bottom;
         }
 
@@ -56,6 +56,38 @@
                 <ol>
                     <li>李白</li>
                 </ol>
+                    <form>
+        用户名<input  type="text ">
+        <br/>
+        密码<input type="password">
+        <input type="button" value="confim" >
+        <input type="button" value="cancel">
+        <br/> <br/> <br/>
+        您的年龄是？
+        <br/>
+        小于20<input type="checkbox">
+        20~30<input type="checkbox">
+        30~40<input type="checkbox">
+        大于40<input type="checkbox">
+        <br/> <br/> <br/>
+        您的性别？
+        <br/>
+        男<input type="radio" name="sex">
+        女<input type="radio" name="swx">
+        <br/> <br/> <br/>
+        您的学历？
+        <br/>
+        <select>
+            <option>本科</option>
+            <option>研究生</option>
+            <option>博士</option>
+            <option>其他</option>
+        </select>
+        <br/> <br/> <br/>
+    </form>
+    <textarea cols="25" rows="25" >
+        您的建议是？
+    </textarea>
             </ul>
         </div>
         <div id="comment1">
