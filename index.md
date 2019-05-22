@@ -96,7 +96,7 @@
         </div>
         <div id="comment1" >
            <nav>
-                   <table  cellpadding="5" border="5">
+                   <table  cellpadding="5" border="5" width="200px">
                    <caption>导航</caption>
                    <tr style="background: gold">
                        <th><i>试试吧</i></th>
